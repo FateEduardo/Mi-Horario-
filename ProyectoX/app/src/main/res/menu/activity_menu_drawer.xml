@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_cuenta_layout"
+            android:icon="@drawable/ic_micuenta"
+            android:title="Mi cuenta" />
+
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_salones_layout"
+            android:icon="@drawable/ic_salones"
+            android:title="Salones" />
+        <item
+            android:id="@+id/nav_maestros_layout"
+            android:icon="@drawable/ic_maestros"
+            android:title="Maestros" />
+
+        <item
+            android:id="@+id/nav_horarios_layout"
+            android:icon="@drawable/ic_horarios"
+            android:title="Horarios" />
+    </group>
+
+</menu>

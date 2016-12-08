@@ -1,0 +1,81 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.josue.proyectox.fragmentos_de_menu.OpHorariosFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="Lunes"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/bt_lunes"
+            android:layout_below="@+id/textView5"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:text="Martes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:id="@+id/bt_martes"
+            android:layout_below="@+id/bt_lunes"
+            android:layout_alignRight="@+id/bt_lunes"
+            android:layout_alignEnd="@+id/bt_lunes"
+            android:layout_alignLeft="@+id/bt_lunes"
+            android:layout_alignStart="@+id/bt_lunes" />
+
+        <Button
+            android:text="Miercoles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:id="@+id/bt_miercoles"
+            android:layout_below="@+id/bt_martes"
+            android:layout_alignLeft="@+id/bt_martes"
+            android:layout_alignStart="@+id/bt_martes"
+            android:layout_alignRight="@+id/bt_martes"
+            android:layout_alignEnd="@+id/bt_martes" />
+
+        <Button
+            android:text="Jueves"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bt_miercoles"
+            android:layout_marginTop="22dp"
+            android:id="@+id/bt_jueves"
+            android:layout_alignRight="@+id/bt_miercoles"
+            android:layout_alignEnd="@+id/bt_miercoles"
+            android:layout_alignLeft="@+id/bt_miercoles"
+            android:layout_alignStart="@+id/bt_miercoles" />
+
+        <Button
+            android:text="Viernes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bt_jueves"
+            android:layout_marginTop="20dp"
+            android:id="@+id/bt_viernes"
+            android:layout_alignRight="@+id/bt_jueves"
+            android:layout_alignEnd="@+id/bt_jueves"
+            android:layout_alignLeft="@+id/bt_jueves"
+            android:layout_alignStart="@+id/bt_jueves" />
+
+        <TextView
+            android:text="Elige tu horario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/Tam_text_titulos"
+            android:layout_marginTop="29dp"
+            android:id="@+id/textView5"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    <!-- TODO: Update blank fragment layout -->
+
+</FrameLayout>

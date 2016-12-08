@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProyectoX</string>
+    <string name="link_alumnos">Portal Alumnos</string>
+    <string name="link_facultad">Pagina FIAD</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="text_hint_login_username">Matricula</string>
+    <string name="text_hint_login_pass">Contraseña</string>
+    <string name="text_login_1">¿Olvidaste tu contraseña?</string>
+    <string name="text_login_2">Registrate</string>
+    <string name="text_login_button">Iniciar Sesion</string>
+    <string name="floatingButton_link_1">Pagina FIAD</string>
+    <string name="floatingButton_link_2">Portal de alumnos</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

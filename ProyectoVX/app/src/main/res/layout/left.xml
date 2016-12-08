@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="150dp"
+    android:layout_gravity="end"
+    android:background="@color/white"
+    android:layout_marginTop="15dp"
+    android:paddingRight="8dp">
+
+    <View style="@style/Divider"/>
+    <TextView
+        android:id="@+id/HoraInicio"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/tam_botton1"
+        android:text="7:00"
+        android:padding="5dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/colorAccent"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:id="@+id/HoraFin"
+        android:layout_below="@+id/HoraInicio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="8:00"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/colorAccent" />
+    <View style="@style/Divider"/>
+</RelativeLayout>

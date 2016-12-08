@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo_text">Crea tu cuenta de HORARIOS UABC</string>
+    <string name="subtitulo1">Datos de la cuenta:</string>
+    <string name="subtitulo2">Datos personales:</string>
+
+    <string name="text_matri">Matricula ejemplo: 00339592</string>
+    <string name="text_contra1">Crea tu contraseña</string>
+    <string name="text_contra2">Confirma tu contraseña</string>
+	<!--Comienza todo el texto de terminos de condiciones en variables-->
+	<string name="tcTexto_completo">
+        "Preámbulo.\n\n"
+
+        "DGOUS Co. Ofrece el servicio de una aplicación de Android en la cual los usuarios pueden "
+        "darse de alta ellos mismos,  podrán consultar sus horarios, además de poder consultar la "
+		"lista de los maestros que hay en la institución.\n\n"
+
+
+		"Objeto de las condiciones\n\n"
+
+
+		"DGOUS Co. ofrece sus servicios con la nueva APK de horarios estudiantiles, "
+		"independientemente de si es gratuito o pagado, sólo en base a los presentes Términos y"
+		"Condiciones Generales.\n\n"
+
+
+        "Inicio y requisitos del contrato\n\n"
+
+		"El uso del servicio de la APK requiere que el cliente se registre previamente dentro de"
+		"la misma aplicación. DGOUS Co. se reserva el derecho de negar la celebración de un"
+		"contrato.\n"
+		"Los datos personales facilitados por el cliente tienen que ser verdaderos.\n\n"
+
+
+        "Descripción del servicio\n\n"
+
+        "El cliente obtiene el derecho de usar el servicio de la aplicación, siempre y cuando sea"
+		"perteneciente a la institución y de acuerdo a las posibilidades técnicas con las que"
+		"cuente (Versión Android 4.0.3 en adelante).\n"
+		"El diseño, estructura y alcance de las funcionalidades de la aplicación, especialmente la"
+		"presentación visual del contenido, se encuentran bajo criterio exclusivo de DGOUS Co.\n"
+		"El cliente/usuario no tiene derecho de influir en esto a menos que se haya acordado lo"
+		"contrario con DGOUS Co., además DGOUS Co. tiene el derecho de colocar su logo en la"
+		"interface de la aplicación, y avisos publicitarios.\n"
+		"Sólo es posible reemplazar o remover dichas marcas mediante un acuerdo individual.\n\n"
+
+
+		"Obligaciones del usuario\n\n"
+
+		"1.	El cliente no tiene derecho de poner su cuenta de usuario al alcance de terceros.\n"
+
+		"2.	El cliente debe guardar los datos de acceso y la clave personal en un lugar seguro para"
+		"impedir el acceso a terceros.\n"
+
+		"3.	Por razones de seguridad, el cliente debe cambiar su clave regularmente."
+		"Puede cambiarla en cualquier momento en línea.\n"
+		"En caso de que el cliente tenga la sospecha de que otras personas conocen su clave,"
+		"debe cambiarla inmediatamente.\n"
+
+		"4.	El cliente tiene que notificar inmediatamente a la aplicación DGOUS Co."
+		"sobre todos los cambios de datos relevantes, tales como Facultad, Grupo, Turno.\n"
+
+		"5.	El incumplimiento de las obligaciones por parte del cliente, le da a DGOUS Co."
+		"el derecho de retirar el contenido de la aplicación sin previa notificación al cliente.\n"
+
+		"6.	Los usuarios tienen que estar conscientes que deben crear una sola cuenta para el"
+		"uso de la aplicación por persona física, para evitar sobrecarga en la creación de"
+		"usuarios, un uso excesivo sucedería creando usuarios falsos y ocupando espacio en la"
+		"base de datos\n\n"
+
+		"Obligaciones de la empresa\n\n"
+
+		"1.	DGOUS Co. se compromete a que toda la información personal proporcionada por los"
+		"usuarios, será para uso exclusivo de la aplicación.\n"
+
+		"2.	DGOUS Co. se compromete a que la información proporcionada no será mostrada, dada o"
+		"vendida  a terceros sin su consentimiento previo, ni tampoco  hará uso incorrecto"
+		"de los datos.\n"
+
+		"3.	DGOUS Co. podrá transferir sus datos personales cuando dicha transferencia esté"
+		"prevista en la Ley.\n"
+
+		"4.	DGOUS Co. ha adoptado las medidas de seguridad, administrativas, técnicas y físicas,"
+		"necesarias para proteger sus datos personales contra daño, pérdida, alteración,"
+		"destrucción o el uso, acceso o tratamiento no autorizado.\n"
+
+		"Sin embargo, es claro que ninguna transmisión de datos por Internet es completamente"
+		"segura y por ende DGOUS Co. no puede garantizar que el tratamiento de sus datos personales"
+		"estará libre de todo daño, pérdida, alteración, destrucción o el uso,"
+		"acceso o tratamiento no autorizado./n"
+
+		"5.	DGOUS Co. se reserva el derecho de hacer cambios en el presente Aviso de Privacidad.\n"
+
+    </string>
+	<string name="acepto_terminos">He leido, y acepto los terminos y condiciones</string>
+</resources>
